@@ -1,4 +1,4 @@
-# flutter_boilerplate
+# test_apps
 
 A new Flutter project.
 
